@@ -1,0 +1,17 @@
+instructions on django
+
+cd djangogirls
+myvenv\Scripts\activate
+python manage.py runserver
+
+git status
+git add --all . 
+git status
+git commit -m "what i did"
+git push
+
+
+pythonanywhere console
+cd ~/elehunt57.pythonanywhere.com
+git pull
+
